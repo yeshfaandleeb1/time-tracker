@@ -37,7 +37,7 @@
         </dependency>
     </dependencies>
 
-    <!-- ✅ build section sahi jagah -->
+    <!-- ✅ Correct build section -->
     <build>
         <plugins>
             <plugin>
